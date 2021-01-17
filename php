@@ -1,1 +1,3 @@
-phpversion (string $extension = ? ): string
+<?php
+var_dump( phpinfo() );
+?>
