@@ -1,0 +1,1 @@
+phpversion (string $extension = ? ): string
